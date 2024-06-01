@@ -38,12 +38,12 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'Dante',
-    subtitle: 'Minimal Astro.js theme',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    title: 'Sotai',
+    subtitle: 'Squeeze out the assymetry information',
+    description: 'Infomation to enhance for your choice by Maruyama Takeshi',
     image: {
         src: '/dante-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
+        alt: 'Sotai - Squeeze out the assymetry information'
     },
     headerNavLinks: [
         {
@@ -76,44 +76,40 @@ const siteConfig: SiteConfig = {
             text: 'Terms',
             href: '/terms'
         },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
-        }
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
-        },
-        {
-            text: 'Instagram',
-            href: 'https://instagram.com/'
-        },
-        {
             text: 'X/Twitter',
-            href: 'https://twitter.com/'
+            href: 'https://x.com/share?url=https://www.sotai.co'
+        },
+        {
+            text: 'Facebook',
+            href: 'http://www.facebook.com/share.php?u=https://www.sotai.co'
+        },
+        {
+            text: 'Line',
+            href: 'http://line.me/R/msg/text/?https://www.sotai.co'
         }
     ],
     hero: {
-        title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
+        title: 'アトピーと物理学',
+        text: "負荷をかけ過ぎるとバネはバカになる。人体も同様に自然状態や復元構造が半壊する。",
         image: {
-            src: '/hero.jpeg',
-            alt: 'A person sitting at a desk in front of a computer'
+            src: '/atopic_physics.png',
+            alt: 'アトピーと物理学 フローチャート'
         },
         actions: [
             {
-                text: 'Get in Touch',
-                href: '/contact'
+                text: '詳細はこちらから',
+                href: '/blog/post-1'
             }
         ]
     },
-    subscribe: {
-        title: 'Subscribe to Dante Newsletter',
-        text: 'One update per week. All the latest posts directly in your inbox.',
-        formUrl: '#'
-    },
+    // subscribe: {
+    //     title: 'Subscribe to Sotai Newsletter',
+    //     text: 'One update per week. All the latest posts directly in your inbox.',
+    //     formUrl: '#'
+    // },
     postsPerPage: 8,
     projectsPerPage: 8
 };
