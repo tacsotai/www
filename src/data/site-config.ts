@@ -42,7 +42,7 @@ const siteConfig: SiteConfig = {
     subtitle: 'Squeeze out the assymetry information',
     description: 'Infomation to enhance for your choice by Maruyama Takeshi',
     image: {
-        src: '/dante-preview.jpg',
+        src: '/sotai-image.jpeg',
         alt: 'Sotai - Squeeze out the assymetry information'
     },
     headerNavLinks: [
@@ -92,15 +92,15 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'アトピーと物理学',
-        text: "負荷をかけ過ぎるとバネはバカになる。人体も同様に自然状態や復元構造が半壊する。",
+        title: '情報の非対称性を絞り出せ',
+        text: "情報はそれを知るものと知らないものでは全く違って捉えられる。これを情報の非対称性という。このサイトは、これにやられてしまった私の失敗を絞り出していく。",
         image: {
-            src: '/atopic_physics.png',
-            alt: 'アトピーと物理学 フローチャート'
+            src: '/sotai-image.jpeg',
+            alt: 'Sotai Image'
         },
         actions: [
             {
-                text: '詳細はこちらから',
+                text: '続き',
                 href: '/blog/post-1'
             }
         ]
