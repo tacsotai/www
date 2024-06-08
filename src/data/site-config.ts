@@ -101,7 +101,7 @@ const siteConfig: SiteConfig = {
         actions: [
             {
                 text: '続き',
-                href: '/blog/post-1'
+                href: '/blog/atopy'
             }
         ]
     },

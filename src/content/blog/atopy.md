@@ -1,20 +1,20 @@
 ---
-title: The Advantages & Disadvantages of Working from Home
-excerpt: In recent years, the way we work has undergone a significant transformation, largely due to advancements in technology and changing attitudes toward work-life balance. One of the most notable changes has been the rise of remote work, allowing employees to work from the comfort of their own homes.
-publishDate: 'Aug 5 2023'
+title: アトピー
+excerpt: 我々一般人は医学について無知である一方医者は医学およびその問題に通じ情報が非対称化する。アトピー治療はある確率で失敗し、失敗した場合に高い確率で、10年以上牢獄に入るかのごとくQOLが低下する。
+publishDate: 'Aug 5 2025'
 tags:
-  - Guide
+  - Sotai
 seo:
   image:
-    src: '/post-1.jpg'
-    alt: A person standing at the window
+    src: '/atopic_physics.png'
+    alt: アトピー
 ---
 
-![A person standing at the window](/post-1.jpg)
+![フローチャート](/atopic_physics.png)
 
 **Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_.
 
-In recent years, the way we work has undergone a significant transformation, largely due to advancements in technology and changing attitudes toward work-life balance. One of the most notable changes has been the rise of remote work, allowing employees to work from the comfort of their own homes. While this shift has brought about many benefits, it has also introduced its fair share of challenges. Let's explore the advantages and disadvantages of working from home.
+あああ.
 
 ## Advantages of Working from Home
 
