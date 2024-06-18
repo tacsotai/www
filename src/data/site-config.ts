@@ -93,7 +93,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: '情報の非対称性を絞り出せ',
-        text: "情報はそれを知るものと知らないものでは全く違って捉えられる。これを情報の非対称性という。このサイトは、これにやられてしまった私の失敗を絞り出していく。",
+        text: "情報はそれを知るものと知らないものでは全く違って捉えられる。これを情報の非対称性という。 ",
         image: {
             src: '/sotai-image.jpeg',
             alt: 'Sotai Image'
@@ -101,7 +101,7 @@ const siteConfig: SiteConfig = {
         actions: [
             {
                 text: '続き',
-                href: '/blog/atopy'
+                href: '/blog/asymmetry-information'
             }
         ]
     },
