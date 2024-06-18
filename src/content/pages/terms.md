@@ -1,52 +1,55 @@
 ---
-title: Terms of Service
+title: 利用規約
 seo:
-  title: Terms of Service
-  description: Explore the terms and conditions of Dante website for a clear understanding of guidelines and responsibilities.
+  title: Sotai利用規約
+  description: Sotaiのサービスを利用する上でのルール
 ---
 
-**Last updated on January 11, 2024**
+Sotai（以下「弊社」）は、[サービス](#サービス)を提供します。
+ご利用いただくことによって、本利用規約に同意していただいたユーザー（利用者）とみなします。
 
-These Terms of Service ("Terms") govern your access to and use of [Website Name] ("the Website") and any related services provided by [Website Owner/Company] ("we," "us," or "our"). Please read these Terms carefully before using the Website.
+## サービスについて
 
-**1. Acceptance of Terms**
+### サービス
+1. 情報収集、情報処理、情報分析、情報提供によるサービス、販売
+1. コンピューターシステムの分析、設計、使用許諾、販売およびインターネットに関するコンサルティング
+1. ホームページの制作、構築および販売
+1. コンピューター、その他周辺機器・関連機器およびソフトウェアの企画、開発、設計、製造、販売
+1. インターネットでの広告業務
+1. 書籍・雑誌その他印刷物および電子出版物の企画、制作および販売
+1. 全各号に付帯する一切の業務
 
-By accessing or using the Website, you agree to be bound by these Terms and our Privacy Policy. If you do not agree to these Terms or the Privacy Policy, please do not use the Website.
+### 利用料
+当面の間、無料とします。
+利用料をいただくように本利用規約を改訂することがあります。
+また、広告などを表示するように改定することもあります。
 
-**2. Changes to Terms**
+## 利用にあたっての注意
 
-We reserve the right to modify, amend, or update these Terms at any time. Such changes will be effective upon posting on the Website. It is your responsibility to review these Terms regularly. Your continued use of the Website after any changes indicates your acceptance of the revised Terms.
+### 個人情報の利用目的
+弊社はユーザーから収集した情報を本人や他の人の利便性向上のために解析します。
+統計や人工知能等の手法または外部サービスを利用して解析します。
+解析した情報をユーザーをはじめ、第三者に提供することがあります。
 
-**3. Use of the Website**
+### 個人情報の保護
+弊社はIT標準技術および暗号技術によってユーザーの個人情報保護に努めています。
+個人情報保護のためには、ユーザー自身の協力が不可欠となります。
+アカウント情報（メールアドレスや電話番号、パスワード等）の管理に努めてください。
 
-You agree to use the Website for lawful purposes and in a manner consistent with these Terms. You are responsible for any content you post or submit on the Website.
+### 著作権・知的財産権等
+著作権その他一切の権利は、弊社又は権利を有する第三者に帰属します。
 
-**4. Registration and Account**
+### 利用規約の改定
+必要に応じて、本規約を適宜変更することがあります。
 
-Certain areas of the Website may require registration or the creation of an account. You agree to provide accurate, current, and complete information during the registration process and to update such information to keep it accurate, current, and complete. You are responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account.
+## 問題への対処
 
-**5. Content and Intellectual Property**
+### 法令の遵守
+弊社は、保持する個人情報に関して適用される日本の法令等を遵守するとともに、本利用規約の内容を適宜見直し、その改善に努めます。
+### 免責事項
+本サービスはユーザーの特定の目的に適合すること、期待する機能の実現、および不具合が生じないことについて、何ら保証するものではありません。
+弊社の都合によりこの仕様をいつでも変更できるものとします。弊社は、本サービスの提供の終了、変更、または利用不能、利用によるデータの消失または機械の故障もしくは損傷、その他に関してユーザーが被った損害につき、賠償する責任を一切負わないものとします。
+### 紛争の解決
+ユーザーと弊社の間で訴訟の必要が生じた場合には、東京地方裁判所を第一審の専属的合意管轄裁判所とします。
 
-The content on the Website, including text, graphics, logos, images, audio, video, software, and other materials, is owned or licensed by us and is protected by copyright and other intellectual property laws. You may not use, reproduce, or distribute the content without our prior written consent.
-
-**6. Third-Party Links**
-
-The Website may contain links to third-party websites or resources. We do not endorse and are not responsible for the content, products, or services provided by third parties. Your use of such websites is at your own risk.
-
-**7. Termination**
-
-We may, at our sole discretion, terminate or suspend your access to the Website at any time and for any reason, without notice.
-
-**8. Disclaimer**
-
-The Website and its content are provided on an "as is" and "as available" basis. We make no warranties or representations about the accuracy or completeness of the content. We do not guarantee that the Website will be error-free or uninterrupted.
-
-**9. Limitation of Liability**
-
-To the fullest extent permitted by law, we shall not be liable for any direct, indirect, incidental, special, consequential, or exemplary damages, including but not limited to damages for loss of profits, goodwill, use, data, or other intangible losses, arising out of or in connection with the use or inability to use the Website.
-
-**10. Governing Law**
-
-These Terms are governed by and construed in accordance with the laws of [Your Jurisdiction], without regard to its conflict of laws principles. Any disputes arising under these Terms shall be subject to the exclusive jurisdiction of the courts of [Your Jurisdiction].
-
-_Thank you for reading our Terms of Service. By using the Website, you agree to be bound by these Terms._
+最終更新日: 2024年6月19日

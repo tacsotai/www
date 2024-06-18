@@ -1,14 +1,15 @@
 ---
-title: Get in touch
+title: お問い合わせ
 seo:
-  title: Contact
-  description: Get in touch through email or social media! Let me know how I can help.
+  title: お問い合わせ
+  description: ご質問や提案がありましたら、メールやSNSでご連絡ください。
 ---
 
-Thank you for reaching out! Whether you have a question, a suggestion, or just want to share your thoughts, I'm all ears. Feel free to get in touch through any of the methods below:
+ご連絡ありがとうございます。  
+ご質問や提案がありましたら以下からお願いします。
 
-_Email:_
-Feel free to drop me an email at [example@example.com](mailto:example@example.com), and I'll do my best to respond as soon as possible.
+**メール:**
+[info@sotai.co](mailto:info@sotai.co) 
 
-_Social Media:_
-Connect with me on social media as well. Find me on [Twitter](https://twitter.com) or [LinkedIn](https://www.linkedin.com/).
+**SNS:**
+[X/Twitter](https://x.com/tac519), [LinkedIn](https://www.linkedin.com/in/%E6%AF%85-%E4%B8%B8%E5%B1%B1-9146b3262/) 
